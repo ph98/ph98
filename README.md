@@ -6,8 +6,10 @@
 - 🏅🎯 Chess medalist who enjoys 🏃🏼‍♂️🏊‍♂️⚽🏀🏓
   
 
-![](https://komarev.com/ghpvc/?username=ph98)
 ![](https://img.shields.io/github/followers/ph98?color=green&logo=github&link=https://github.com/ph98?tab=followers)
+![](https://komarev.com/ghpvc/?username=ph98)
+![GitHub User's stars](https://img.shields.io/github/stars/ph98)
+
 
 ### 📞 Find me on: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-white?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/parhamheidari/)
